@@ -1,0 +1,17 @@
+{
+  "version": 4,
+  "configurations": [
+    {
+      "name": "w64devkit",
+      "compilerPath": "C:/w64devkit/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/src",
+        "${workspaceFolder}/libs/raylib/include",
+        "${workspaceFolder}/libs/raygui"
+      ]
+    }
+  ]
+}
